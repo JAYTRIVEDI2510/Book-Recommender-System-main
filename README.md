@@ -7,8 +7,6 @@
   - And in this project the major concern was to focus on user ratings and make recommendation based on that
 - At the beginning data merging and data cleaning was performed.
 - **Streamlit**'framework was being used and web app was created.
-- The web app was then deployed on **Streamlit Cloud**.
-- Link: https://prachipatel15-book-recommender-system-app-batk0m.streamlit.app/
 
 ## Data
 https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
@@ -28,7 +26,5 @@ https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 - Both Popularity and Collaborative firterling are working at some extend.
 - In collaborative filtering, cosine similarity pays huge role and it's results were more consistent.
 - Here is some of the pictures from the web app.
-- ![](https://github.com/PrachiPatel15/Book-Recommender-System/blob/main/webapp-1.png)
-- ![](https://github.com/PrachiPatel15/Book-Recommender-System/blob/main/webapp-2.png) 
 
 
