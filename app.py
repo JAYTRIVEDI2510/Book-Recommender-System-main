@@ -2,7 +2,7 @@
 import streamlit as st
 import pickle
 import numpy as np
-import pandas 
+import pandas as pd  
 
 def recommend_book(book):
     index = np.where(pt.index==book)[0][0]
